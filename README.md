@@ -1,5 +1,7 @@
 # RadixTree
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d8cf6d5c6e314ae09cd3cca8cf9a2577)](https://app.codacy.com/gh/reficul0/RadixTree?utm_source=github.com&utm_medium=referral&utm_content=reficul0/RadixTree&utm_campaign=Badge_Grade)
+
 Реализация Radix Tree.
 
 Пример:
