@@ -1,6 +1,8 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/738d7cd8fc74461b8095ab4d138564f2)](https://www.codacy.com/gh/reficul0/RadixTree/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=reficul0/RadixTree&amp;utm_campaign=Badge_Grade)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d8cf6d5c6e314ae09cd3cca8cf9a2577)](https://app.codacy.com/gh/reficul0/RadixTree?utm_source=github.com&utm_medium=referral&utm_content=reficul0/RadixTree&utm_campaign=Badge_Grade)
+
 Реализация Radix Tree.
 
 Пример:
